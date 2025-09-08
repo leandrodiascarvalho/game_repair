@@ -69,6 +69,7 @@ body {
 /* =========================
    HEADER
    ========================= */
+/*TODO: fixar o menu no topo*/
 .header {
   position: sticky;
   top: 0;

@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "mensagem": "Meu PS5 não está ligando. Preciso de um orçamento.",
+      "data_contato": "2023-10-26T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "email": "maria.o@example.com",
+      "mensagem": "O analógico do meu controle de Xbox está com drift.",
+      "data_contato": "2023-10-27T14:30:00Z"
+    }
+  ]
+}
